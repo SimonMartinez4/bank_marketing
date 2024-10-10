@@ -1,0 +1,31 @@
+# Ignorer les fichiers compilés
+*.class
+*.pyc
+
+# Ignorer les fichiers temporaires d'éditeurs de code
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers d'environnement virtuel Python
+venv/
+__pycache__/
+
+# Ignorer les fichiers de configuration spécifique à l'OS
+Thumbs.db
+
+# Ignorer les fichiers générés
+*.bak
+*.tmp
+*.swp
+
+# Ignorer les fichiers de build
+build/
+dist/
+
+# Ignorer les fichiers sensibles
+.env
